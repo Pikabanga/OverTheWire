@@ -1,2 +1,9 @@
+# Solution
+```sh
+cd /
+find -group bandit6 -user bandit7 -size 33c 2> /dev/null
+cat ./var/lib/dpkg/info/bandit7.password
+```
+
 # Password
 DXjZPULLxYr17uwoI01bNLQbtFemEgo7
