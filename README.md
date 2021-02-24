@@ -1,3 +1,3 @@
 # OverTheWire
 
-Hello
+https://overthewire.org/wargames
