@@ -1,2 +1,7 @@
+# Solution
+```sh
+ls
+cat readme
+```
 # Password
 boJ9jbbUNNfktd78OOpsqOltutMc3MY1
